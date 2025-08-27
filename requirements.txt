@@ -1,0 +1,13 @@
+
+# Для выполнения HTTP-запросов
+requests
+
+# Для парсинга HTML и XML данных
+beautifulsoup4
+
+# Один из самых быстрых парсеров для BeautifulSoup
+lxml
+
+langchain==0.3.27
+langchain-openai==0.3.32
+selenium==4.35.0
